@@ -1,0 +1,2 @@
+typing==3.6.6
+networkx==2.2
